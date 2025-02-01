@@ -1,6 +1,7 @@
 # 🧮 Java Calculator 
 
 Java Lab Assignment-1
+
 A simple **Java calculator** supporting basic arithmetic, Fibonacci sequence, and statistical operations on arrays.
 
 ## 📋 Features
