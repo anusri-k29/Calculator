@@ -28,6 +28,3 @@ Enter the corresponding number (1 for Add, 2 for Subtract, etc.).
 
 ---
 
-## 🌐 GitHub Repository
-[**Calculator Repository**](https://github.com/username/Calculator)
-
