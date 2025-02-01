@@ -1,3 +1,5 @@
+//UserInput.java
+
 import java.util.Scanner;
 // Class to handle user input for numbers and arrays
 class UserInput {
